@@ -1,13 +1,7 @@
 /*
-Student Name: Brianna Barrentine
-Student NetID: bb2620
+Name: Brianna Barrentine
 Compiler Used: GNU GCC Complier
 Program Description: A RPN calculator that uses a stack class
-
-Worked with:
-Joshua McQuilling jm4139
-Kyle Xhajanka krx1
-Carolina Welch caw839
 */
 
 #include <iostream>
